@@ -43,20 +43,20 @@ Lorsqu'un projet Maven est construit avec un package de "jar", Maven compilera l
 
 ### OUTPUT ### 
 ## Screen 1
+<img width="319" alt="Screenshot 2024-01-27 130112" src="https://github.com/aymanehed/PatientsApplication/assets/93987581/947159fb-a168-4071-bbee-9593407cf0b9">
 
-<img width="425" alt="i11" src="https://github.com/ACHRAFHED/TP2JEE/assets/102471232/4cfbb12c-850f-40b0-b2e7-063b12b81444">
 
 ## Screen 2
+<img width="269" alt="Screenshot 2024-01-27 130123" src="https://github.com/aymanehed/PatientsApplication/assets/93987581/2f4e789e-032c-4f5d-b5b8-04bf968b07c8">
 
-<img width="363" alt="i1" src="https://github.com/ACHRAFHED/TP2JEE/assets/102471232/6e95860a-f77b-4e8c-8ffa-d6f37703b048">
 
 ## Screen 3
-
-<img width="547" alt="i2" src="https://github.com/ACHRAFHED/TP2JEE/assets/102471232/6c6ed53d-f06d-4c64-874c-e77c7641f10d">
+<img width="411" alt="Screenshot 2024-01-27 130132" src="https://github.com/aymanehed/PatientsApplication/assets/93987581/c20555bc-78ca-45f4-9fc5-a9920ea25f01">
 
 ## Screen 4
 
-<img width="609" alt="i3" src="https://github.com/ACHRAFHED/TP2JEE/assets/102471232/49918bcd-3650-44c7-8be7-2fb0af0b7c72"> 
+<img width="454" alt="Screenshot 2024-01-27 130147" src="https://github.com/aymanehed/PatientsApplication/assets/93987581/9f245a55-ee16-4eef-bc67-063d8e7c6b10">
+
 
 
 
